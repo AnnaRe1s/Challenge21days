@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Poiret One", cursive;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  background-color: black;
+}
+
+.container h1 {
+  font-size: 150px;
+  font-family: "Fredoka One", cursive;
+  color: transparent;
+  background-image: url("https://images.theconversation.com/files/378097/original/file-20210111-23-bqsfwl.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop");
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: #ffffff21;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 450px;
+}
+
+.container p {
+  font-size: 14px;
+  color: white;
+}
+
+.container a {
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 14px;
+  color: black;
+  color: white;
+}

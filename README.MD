@@ -9,7 +9,7 @@
 - Compartilhar nas redes sociais o progresso com a #21diasdecodigo
 - networking com os outros participantes
 
-### Desafios
+## Desafios
 
 - [x] Criar uma repositório para listar os projetos que serão desenvolvidos durante os 21 dias
 - [ ] Fazer um Hello world custumizado com fontes cores e imagens.
