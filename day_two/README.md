@@ -10,6 +10,6 @@
 
 <div>
 
-<p>input day nigth</p>
+<p>botões com hover</p>
 <img src="../assets/videos/botoes.gif"/>
 </div>
