@@ -1,0 +1,129 @@
+* {
+  font-family: "Quicksand", sans-serif;
+  margin: 0;
+}
+
+.simple_hover {
+  width: 100vw;
+  height: 100vh;
+  color: white;
+  background-color: #121111;
+
+  /* padding: 20px; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.simple_hover h2 {
+  font-weight: 300;
+  margin-bottom: 50px;
+}
+
+.all_btns {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.btn_hovers {
+  padding: 10px 20px;
+  margin: 10px;
+  background-color: transparent;
+  transition: 0.5s;
+  border-radius: 10px;
+}
+
+/* btns */
+
+/* FILL */
+.fill {
+  color: #910091;
+  border: 2px solid #910091;
+}
+
+.fill:hover,
+.fill:focus {
+  box-shadow: inset 0px 2px 5px 20px #6c00b4;
+  color: #cc91ff;
+  border: 2px solid #8300db;
+}
+
+/* PULSE */
+
+.pulse {
+  color: #fa8da0;
+  border: 2px solid #fa8da0;
+  background-color: #fa8d9f34;
+}
+
+.pulse:hover,
+.pulse:focus {
+  animation: pulse 1s;
+  box-shadow: 0 0 0 2em transparent;
+  background-color: transparent;
+}
+
+@keyframes pulse {
+  0% {
+    box-shadow: 0 0 0 0 rgb(255, 123, 209);
+    animation-timing-function: cubic-bezier(0.6, -0.28, 0.74, 0.05);
+    background-color: transparent;
+  }
+}
+
+/* CLOSE */
+
+.close {
+  color: #ffc472;
+  border: 2px solid #ffc472;
+}
+
+.close:hover,
+.close:focus {
+  box-shadow: inset -3.5em 0 0 0 orange, inset 3.5em 0 0 0 orange;
+  color: white;
+  transition: 0.8s;
+}
+
+/* CLOSE _diagonally */
+
+.close_diagonally {
+  color: #ffc472;
+  border: 2px solid #ffc472;
+}
+
+.close_diagonally:hover,
+.close_diagonally:focus {
+  box-shadow: inset 20px 20px 0px 0px orange, inset -18px -20px 0px 20px orange;
+  color: white;
+  transition: 0.8s;
+}
+
+/* Uplift */
+
+.uplift {
+  color: #00bc26;
+  border: 2px solid #00bc26;
+}
+
+.uplift:hover,
+.uplift:focus {
+  box-shadow: 0px 10px 20px 0px #23ff00ed;
+  transform: translateY(-10px);
+}
+
+/* up */
+
+.up {
+  color: #00a3bc;
+  border: 2px solid #00a3bc;
+}
+
+.up:hover,
+.up:focus {
+  box-shadow: inset 0 -3.25em 0 0 #00788a;
+  color: white;
+}
