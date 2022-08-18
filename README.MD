@@ -13,14 +13,8 @@
 
 - [x] Criar uma repositório para listar os projetos que serão desenvolvidos durante os 21 dias
 - [x] Fazer um Hello world custumizado com fontes cores e imagens.
-- [ ] Criar um botão animado
+- [x] Criar um botão animado
 - [ ] Criar uma calculadora
 - [ ] Desenvolver uma página customizada que exiba o erro 404
 - [ ] Criar um card com efeito glassmorphism.
 - [ ] Desenvolver um contador
-
-<div align="center">
-<h4> Day 1</h4>
-<img src="./assets/images/challenge_one.jpeg" alt="a imagem contém o background preto com a frase hello world  olá mundo centralizado o background e uma imagem do universo com a terra no meio" width="200" />
-
-</div>
