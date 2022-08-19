@@ -33,3 +33,23 @@ Then in your terminal you type the following commands.
 
 So it will open the project on your machine.\
 Navigate to index.html and right click and click **open with live share**
+
+&nbsp;
+
+<div align="center">
+
+### Autor
+
+---
+
+ <img style="border-radius: 50%;" src="https://scontent.fcgh10-1.fna.fbcdn.net/v/t1.18169-9/21762025_1560184054058101_434273005402939479_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=174925&_nc_ohc=ZDKepmbE38sAX8IhSuQ&tn=qpt1mMvzp0WNZMPT&_nc_ht=scontent.fcgh10-1.fna&oh=00_AT-jQTtOjDA9FfCHeAIvc39oEbYLnqDagNjTVH801ntmsg&oe=6324AB71" width="100px;" alt=""/>
+ <br />
+ <sub><b>Anna Reis</b></sub>
+
+Created with ❤️ by Anna Reis.
+
+#### Contact
+
+[![Linkedin Badge](https://img.shields.io/badge/-Anna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anna-beatriz-reis/)](https://www.linkedin.com/in/anna-beatriz-reis/)
+
+ </div>
