@@ -14,7 +14,7 @@
 - [x] Criar uma repositório para listar os projetos que serão desenvolvidos durante os 21 dias
 - [x] Fazer um Hello world custumizado com fontes cores e imagens.
 - [x] Criar um botão animado
-- [ ] Criar uma calculadora
+- [x] Criar uma calculadora
 - [ ] Desenvolver uma página customizada que exiba o erro 404
 - [ ] Criar um card com efeito glassmorphism.
 - [ ] Desenvolver um contador
