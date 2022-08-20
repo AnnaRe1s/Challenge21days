@@ -1,0 +1,48 @@
+.container-border {
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+  box-shadow: 2px 3px 20px 2px #c8c8c8;
+  margin: 0 20%;
+  background: linear-gradient(to right, #fb5b53, #3ff9dc);
+  position: relative;
+  top: 130px;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  color: white;
+  background-color: #1d2630;
+  width: 95%;
+  height: 200px;
+  padding: 15px;
+}
+
+@keyframes moveup {
+  from {
+    transform: translateY(-250%);
+  }
+
+  to {
+    transform: translateY(0%);
+  }
+}
+
+.container h1 {
+  font-family: "Fredoka One", cursive;
+  margin: 5px;
+}
+
+.container p {
+  font-family: "Didact Gothic", sans-serif;
+}
+
+.container button {
+  border: 1px solid white;
+  padding: 5px 15px;
+  color: white;
+  box-shadow: 3px 3px 1px #3ff9dc, -3px -3px 3px #fb5b53;
+}
