@@ -18,3 +18,10 @@
 - [x] Desenvolver uma página customizada que exiba o erro 404
 - [ ] Criar um card com efeito glassmorphism.
 - [ ] Desenvolver um contador
+- [ ] Desenvolver um toggle que altere o tema
+- [ ] Criar uma animação de loading
+- [ ] Utilizar a lib Particle.js do Js
+- [ ] Criar um layout de formulário de login
+- [ ] Desenvolver uma galeria de imagem
+- [ ] Menu Responsivo
+- [ ] Criar um formulário Quizz
