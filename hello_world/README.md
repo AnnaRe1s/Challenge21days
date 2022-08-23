@@ -27,7 +27,7 @@ Then in your terminal you type the following commands.
 ```bash
  $ git clone https://github.com/AnnaRe1s/Challenge21days.git
  $ cd challenge21days
- $ cd day_one
+ $ cd hello_world
  $ code .
 ```
 
@@ -46,6 +46,5 @@ Navigate to index.html and right click and click **open with live share**
 Created with ❤️ by Anna Reis.
 
 #### Contact
+
 [![Linkedin Badge](https://img.shields.io/badge/-Anna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anna-beatriz-reis/)](https://www.linkedin.com/in/anna-beatriz-reis/)
-
-

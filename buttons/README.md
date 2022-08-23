@@ -45,7 +45,7 @@ Then in your terminal you type the following commands.
 ```bash
  $ git clone https://github.com/AnnaRe1s/Challenge21days.git
  $ cd challenge21days
- $ cd day_two
+ $ cd buttons
  $ code .
 ```
 
