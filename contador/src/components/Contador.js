@@ -24,30 +24,30 @@ const ContadorDePalavras = () => {
     return counter;
   };
 
-  const inputText = document.querySelectorAll(".text-input");
-
   return (
     <div className="contador-container">
-      <div className="input-container">
-        <textarea
-          type="text"
-          id="text"
-          className="text-input"
-          autoComplete="off"
-          placeholder="Describe your text "
-          onChange={handleChange}
-        />
-        <label className="label" for="username">
-          Text
-        </label>
-      </div>
-      <div className="contador-text">
-        <h2>
-          Seu texto tem <span>{howManyWords().length} </span> palavras
-        </h2>
-        <h2>
-          Seu texto tem <span>{howManyLetters()}</span> Letras
-        </h2>
+      <div className="container-glassmorphism">
+        <div className="input-container">
+          <textarea
+            type="text"
+            id="text"
+            className="text-input"
+            autoComplete="off"
+            placeholder="Describe your text "
+            onChange={handleChange}
+          />
+          <label className="label" for="username">
+            Text
+          </label>
+        </div>
+        <div className="contador-text">
+          <h2>
+            Seu texto tem <span>{howManyWords().length} </span> palavras
+          </h2>
+          <h2>
+            Seu texto tem <span>{howManyLetters()}</span> Letras
+          </h2>
+        </div>
       </div>
     </div>
   );
