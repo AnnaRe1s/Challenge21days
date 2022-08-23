@@ -1,10 +1,10 @@
-<div aling="center"> <h1> Contador / Glassmorphism </h1></div>
+<div align="center"> <h1> Contador / Glassmorphism </h1></div>
 
 Challenge six was to create a glassmorphism which is an attempt to simulate a film of glass in the application, and challenge 7 was to create a counter.
 
 I created a word and letter counter, in this counter's container I applied glassmorphism.
 
-<img src="../assets/images/challenge6_7.png" aling="center" />
+<img src="../assets/images/challenge6_7.png" align="center" />
 
 &nbsp;
 
