@@ -25,6 +25,13 @@
 - [ ] Desenvolver uma galeria de imagem
 - [ ] Menu Responsivo
 - [ ] Criar um formulário Quizz
+- [ ] Desenvolver um site que tenha uma vitrine de produtos e e-commerce ficticio
+- [ ] Desenvolver um site utilizando uma api publica
+- [ ] Desenvolver um site que capture os eventos de teclado e exiba na tela o evento e a tecla precionada
+- [ ] Desenvolver um gerador de ssenhas aleatórias
+- [ ] Desenvolver um site que gere imagens aleatórias usando a api da Unsplash
+- [ ] Desenvolver um site de emoji picker, ao selecionar o emogi e copiado para a area de transferencia
+- [ ] Desenvolver uma pagina para o meu portifolio
 
 &nbsp;
 
